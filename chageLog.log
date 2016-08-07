@@ -1,0 +1,26 @@
+[1.5.9]
+
+# Adicionado #: Opção de exportação do relatório da execução.
+#  Corrigido #: Método de visualização do relatório.
+
+[1.4.8]
+
+# Adicionado #: Painel de relatório para as exportações.
+# Adicionado #: Painel de opções.
+# Adicionado #: Opção de diretório padrão de exportação.
+#  Corrigido #: Estrutura de arquivos locais.
+#  Corrigido #: Bug na contagem da exportação.
+#  Corrigido #: Problema na adesão de imagens JPG e JPEG.
+#  Corrigido #: Problema na escrita da estrutura.
+#  Corrigido #: Problemas de desempenho do código.
+#  Corrigido #: Layout da aplicação.
+#  Corrigido #: Pequenos bugs de utilização.
+
+[1.3.7]
+
+#  Corrigido #: Bug ao inserir múlitplas imagens na lista.
+
+[1.3.6]
+
+# Adicionado #: Menu inferior para exibição de informações rápidas sobre as imagens, incluindo o nome do arquivo, o tamanho e sua resolução.
+#  Corrigido #: Pequenos bugs de utilização.

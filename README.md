@@ -1,2 +1,2 @@
 # Wallmgr
-Gerenciador de categorizador de imagens
+Gerenciador e categorizador de wallpaper.
